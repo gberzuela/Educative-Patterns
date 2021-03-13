@@ -39,7 +39,7 @@ const maxSumSubarrayOfSizeK = (k, arr) => {
 let k = 3;
 let arr = [2, 1, 5, 1, 3, 2];
 let result = maxSumSubarrayOfSizeK(k, arr);
-console.log(`Input:\narr: ${arr}, k: ${k}\nResult: ${result}\nExpected: 9`);
+console.log(`Input:\narr: [${arr}], k: ${k}\nResult: ${result}\nExpected: 9`);
 
 console.log("------------");
 
@@ -47,4 +47,4 @@ console.log("------------");
 k = 2;
 arr = [2, 3, 4, 1, 5];
 result = maxSumSubarrayOfSizeK(k, arr);
-console.log(`Input:\narr: ${arr}, k: ${k}\nResult: ${result}\nExpected: 7`);
+console.log(`Input:\narr: [${arr}], k: ${k}\nResult: ${result}\nExpected: 7`);
