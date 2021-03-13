@@ -7,7 +7,7 @@
  *
  * @param k - Integer representing size of subarrays
  * @param arr - Array of integers
- * @returns - Integer representing max sum of all subarrays of size k
+ * @returns Integer representing max sum of all subarrays of size k
  */
 
 /*
