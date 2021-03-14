@@ -19,7 +19,6 @@
 
 const longestSubstringWithKDistinctCharacter = (k, string) => {
   let result = 0;
-  let windowLength = 0;
   let windowStart = 0;
   let hash = {};
 
