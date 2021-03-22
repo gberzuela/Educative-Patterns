@@ -43,6 +43,8 @@ console.log(
 	`Inputs:\narr: [${arr}], target: ${target}\nResult: [${result}]\nExpected: [1, 3]`
 );
 
+console.log('------------');
+
 // Example 2
 arr = [2, 5, 9, 11];
 target = 11;
@@ -50,6 +52,8 @@ result = pairWithTargetSum(arr, target);
 console.log(
 	`Inputs:\narr: [${arr}], target: ${target}\nResult: [${result}]\nExpected: [0, 2]`
 );
+
+console.log('------------');
 
 // Example 3
 arr = [2, 5, 9, 11];
