@@ -12,8 +12,8 @@
 /**
  * Complexity
  *
- * Time:  O()
- * Space: O()
+ * Time:  O(n)
+ * Space: O(1)
  */
 
 const removeDuplicates = (arr) => {
