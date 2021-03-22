@@ -36,6 +36,8 @@ let arr = [2, 3, 3, 3, 6, 9, 9];
 let result = removeDuplicates(arr);
 console.log(`Input: arr = [${arr}]\nResult: ${result}\nExpected: 4`);
 
+console.log('------------');
+
 // Example 2
 arr = [2, 2, 2, 11];
 result = removeDuplicates(arr);
