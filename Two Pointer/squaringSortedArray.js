@@ -3,17 +3,17 @@
 */
 
 /**
- * Inputs
- *
- * @param arr - sorted array of integers
- * @returns sorted array all all values from input arr
- */
-
-/**
  * Complexity
  *
  * Time:  O(n)
  * Space: O(n)
+ */
+
+/**
+ * Inputs
+ *
+ * @param arr - sorted array of integers
+ * @returns sorted array all all values from input arr
  */
 
 const squaringSortedArray = (arr) => {

@@ -3,17 +3,17 @@
  */
 
 /**
- * Inputs
- *
- * @param arr - sorted array of integers
- * @returns length of subarray with no duplicates
- */
-
-/**
  * Complexity
  *
  * Time:  O(n)
  * Space: O(1)
+ */
+
+/**
+ * Inputs
+ *
+ * @param arr - sorted array of integers
+ * @returns length of subarray with no duplicates
  */
 
 const removeDuplicates = (arr) => {

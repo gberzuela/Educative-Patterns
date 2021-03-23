@@ -5,18 +5,18 @@
 */
 
 /**
+ * COMPLEXITY
+ *
+ * Time:  O(n)
+ * Space: O(1)
+ */
+
+/**
  * Inputs
  *
  * @param arr - sorted array of integers
  * @param target_sum - target to find
  * @returns pair of indices in the array whose sum is equal to the given target or [-1, -1]
- */
-
-/**
- * COMPLEXITY
- *
- * Time:  O(n)
- * Space: O(1)
  */
 
 const pairWithTargetSum = (arr, target_sum) => {
