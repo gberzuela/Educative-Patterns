@@ -5,7 +5,7 @@
 /*
     Complexity
 
-    Time:  O(n + k) where n is the size of the LinkedList
+    Time:  O(n + n) where n is the size of the LinkedList => O(2n) => O(n)
     Space: O(1)
 */
 
